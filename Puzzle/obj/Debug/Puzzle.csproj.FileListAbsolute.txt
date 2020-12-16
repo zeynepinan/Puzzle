@@ -1,0 +1,52 @@
+C:\Users\Zeynep İnan\Desktop\ugujguukjgkj\Puzzle\obj\Debug\Puzzle.csprojResolveAssemblyReference.cache
+C:\Users\Zeynep İnan\Desktop\ugujguukjgkj\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+C:\Users\Zeynep İnan\Desktop\ugujguukjgkj\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.cache
+C:\Users\Zeynep İnan\Desktop\ugujguukjgkj\Puzzle\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep İnan\Desktop\ugujguukjgkj\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\Zeynep İnan\Desktop\ugujguukjgkj\Puzzle\obj\Debug\Puzzle.pdb
+C:\Users\Zeynep İnan\Desktop\ugujguukjgkj\Puzzle\bin\Debug\Puzzle.exe.config
+C:\Users\Zeynep İnan\Desktop\ugujguukjgkj\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\Zeynep İnan\Desktop\ugujguukjgkj\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\Zeynep İnan\Desktop\ugujguukjgkj\Puzzle\obj\Debug\Puzzle.Form1.resources
+C:\Users\Zeynep İnan\Desktop\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+C:\Users\Zeynep İnan\Desktop\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\Zeynep İnan\Desktop\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\Zeynep İnan\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.csprojResolveAssemblyReference.cache
+C:\Users\Zeynep İnan\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.Form1.resources
+C:\Users\Zeynep İnan\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+C:\Users\Zeynep İnan\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.cache
+C:\Users\Zeynep İnan\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep İnan\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\Zeynep İnan\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+C:\Users\melcicek\Desktop\Puzzle (1)\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+C:\Users\melcicek\Desktop\Puzzle (1)\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\melcicek\Desktop\Puzzle (1)\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\melcicek\Desktop\Puzzle (1)\Puzzle\Puzzle\obj\Debug\Puzzle.csprojAssemblyReference.cache
+C:\Users\melcicek\Desktop\Puzzle (1)\Puzzle\Puzzle\obj\Debug\Puzzle.Form1.resources
+C:\Users\melcicek\Desktop\Puzzle (1)\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+C:\Users\melcicek\Desktop\Puzzle (1)\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.cache
+C:\Users\melcicek\Desktop\Puzzle (1)\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\melcicek\Desktop\Puzzle (1)\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\melcicek\Desktop\Puzzle (1)\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+C:\Users\Zeynep İnan\Desktop\Projeler\Puzzle son\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+C:\Users\Zeynep İnan\Desktop\Projeler\Puzzle son\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\Zeynep İnan\Desktop\Projeler\Puzzle son\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\Zeynep İnan\Desktop\Projeler\Puzzle son\Puzzle\Puzzle\obj\Debug\Puzzle.csprojResolveAssemblyReference.cache
+C:\Users\Zeynep İnan\Desktop\Projeler\Puzzle son\Puzzle\Puzzle\obj\Debug\Puzzle.Form1.resources
+C:\Users\Zeynep İnan\Desktop\Projeler\Puzzle son\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+C:\Users\Zeynep İnan\Desktop\Projeler\Puzzle son\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.cache
+C:\Users\Zeynep İnan\Desktop\Projeler\Puzzle son\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep İnan\Desktop\Projeler\Puzzle son\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\Zeynep İnan\Desktop\Projeler\Puzzle son\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+C:\Users\Zeynep İnan\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.Form2.resources
+C:\Users\Zeynep İnan\Desktop\Projeler\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+C:\Users\Zeynep İnan\Desktop\Projeler\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\Zeynep İnan\Desktop\Projeler\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\Zeynep İnan\Desktop\Projeler\Puzzle\Puzzle\obj\Debug\Puzzle.csprojAssemblyReference.cache
+C:\Users\Zeynep İnan\Desktop\Projeler\Puzzle\Puzzle\obj\Debug\Puzzle.Form1.resources
+C:\Users\Zeynep İnan\Desktop\Projeler\Puzzle\Puzzle\obj\Debug\Puzzle.Form2.resources
+C:\Users\Zeynep İnan\Desktop\Projeler\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+C:\Users\Zeynep İnan\Desktop\Projeler\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.cache
+C:\Users\Zeynep İnan\Desktop\Projeler\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep İnan\Desktop\Projeler\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\Zeynep İnan\Desktop\Projeler\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
